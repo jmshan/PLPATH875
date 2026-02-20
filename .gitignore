@@ -2,8 +2,8 @@
 *.nex
 *.tree
 MappedOnHordeumChromosomes_OneCopyGenes.txt
-glemin-wheat/data/*
-glemin-wheat/results/*
+data/*
+results/*
 
 
 resources/*
